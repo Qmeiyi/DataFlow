@@ -15,7 +15,7 @@
 
 **[Features](#Features) • [Quick Start](#Quick_Start) • [Documentation](https://OpenDCAI.github.io/DataFlow-Doc/) • [Experiments](#Experiments)**
 
-<video src="./static/images/dataflow_video.mp4" controls></video>
+<video src="https://github.com/Qmeiyi/DataFlow/raw/main/static/images/dataflow_video.mp4" controls></video>
 
 </div>
 
