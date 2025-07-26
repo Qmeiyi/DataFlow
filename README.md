@@ -20,7 +20,7 @@
 
 </div>
 
-[https://github.com/user-attachments/assets/05e047a5-99bb-4043-bc71-2b5ccdab2126](https://github.com/user-attachments/assets/d48f99f4-e687-4f6f-8076-db7c238c93ee)
+https://github.com/user-attachments/assets/dd2c9bd6-e8e7-4105-aea2-5e739af8b695
 
 ## 📰 1. News
 🎉 [2025-06-28] We’re excited to announce that DataFlow, our Data-centric AI system, is now released! Stay tuned for future updates.
@@ -146,7 +146,7 @@ dataflow webui agent
 
 This command will start the DataFlow-Agent interface, providing automated operator authoring and pipeline recommendation services.
 
-https://github.com/user-attachments/assets/a286d39f-00cf-4692-8d98-cc73475fca8b
+https://github.com/user-attachments/assets/1265fa5b-249d-419a-97e3-42bc8a653b8a
 
 ### 🌐 5.3 ADP Intelligent Data Platform
 
